@@ -46,7 +46,7 @@ RePlate/
 
 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/RePlate.git](https://github.com/SanLuis27/CPE106L-4_E03_3T2425.git)
+git clone https://github.com/your-username/RePlate.git](https://github.com/SanLuis27/CPE106L-4_E03_3T2425.git
 cd RePlate
 ```
 
