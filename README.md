@@ -94,7 +94,7 @@ This project is developed for Sir. Dionis Padilla as part of the CPE106L-4-E03 c
 ---
 
 ## 👥 Contributors
-- Derrick C. LEE
+- Derrick C. Lee
 - Juan Miguel S. San Luis
 
 ---
