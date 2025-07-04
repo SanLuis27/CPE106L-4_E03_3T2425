@@ -34,6 +34,7 @@ RePlate/
 ├── login_ui.py       # User interface for login
 ├── login_bl.py       # Business logic for authentication
 ├── login_dal.py      # Data access for user credentials
+├── main.py           # Entry point for launching the full application
 ├── users.txt         # Sample user data
 ├── requirements.txt  # Python dependencies
 └── README.md         # Project documentation
