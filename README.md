@@ -58,7 +58,7 @@ source venv/bin/activate
 
 3. Run the App
 ```bash
-python login_ui.py
+python main.py
 ```
 
 ---
