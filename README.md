@@ -42,11 +42,11 @@ RePlate/
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Step-by-Step Instructions
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/RePlate.git](https://github.com/SanLuis27/CPE106L-4_E03_3T2425.git
+git clone https://github.com/your-username/RePlate.git
 cd RePlate
 ```
 
@@ -55,11 +55,15 @@ cd RePlate
 python -m venv venv
 source venv/bin/activate
 ```
-
-3. Run the App
+3. Change the directory in your terminal. Locate the folder where you saved the files from file structure and press ctrl+L and paste it in the terminal like this:
+```bash
+cd /home/vboxuser/Documents/RePlate/
+```
+4. Run the App
 ```bash
 python main.py
 ```
+
 
 ---
 
