@@ -37,5 +37,71 @@ RePlate/
 ├── users.txt         # Sample user data
 ├── requirements.txt  # Python dependencies
 └── README.md         # Project documentation
+```
 
 ---
+
+## 🚀 Getting Started
+
+1. Clone the Repository
+```bash
+git clone https://github.com/your-username/RePlate.git
+cd RePlate
+```
+
+2. Set Up Virtual Environment
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+3. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the App
+```bash
+python login_ui.py
+```
+
+---
+
+## 🧪 Sample Credentials
+
+| Username     | Password     | Role       |
+|--------------|--------------|------------|
+| donor1       | password123  | Donor      |
+| recipient1   | securepass   | Recipient  |
+
+---
+
+## 📊 Features
+
+- 🔐 Secure login for donors and recipients
+
+- 📝 Donors can add/view food donations
+
+- 📦 Recipients can request food and track deliveries
+
+- 🗺️ Map integration for delivery tracking
+
+- 💬 Chat system for real-time updates
+
+- 📈 Reports showing food saved and delivery progress
+
+---
+
+## 👨‍🏫 Client
+This project is developed for Sir. Dionis Padilla as part of the CPE106L-4-E03 course at Mapúa University.
+
+---
+
+## 👥 Contributors
+- Derrick C. LEE
+- Juan Miguel S. San Luis
+
+---
+
+## 📃 License
+This project is for academic purposes under Mapúa University's guidelines.
