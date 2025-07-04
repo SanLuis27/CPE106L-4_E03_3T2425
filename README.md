@@ -38,26 +38,4 @@ RePlate/
 ├── requirements.txt  # Python dependencies
 └── README.md         # Project documentation
 
-## 🚀 Getting Started
-
-1. Clone the Repository
-git clone https://github.com/your-username/RePlate.git
-cd RePlate
-
-2. Set Up Virtual Environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-3. Install Dependencies
-pip install -r requirements.txt
-
-4. Run the App
-python login_ui.py
-
-## 🧪 Sample Credentials
-
-| Username              | Password          | Role                                                              |
-|-------------------|-----------------------------------------------------------------------------|
-| donor1           | password123          | Donor                             |
-| recipient1     | securepass        | Recipient               |
 ---
